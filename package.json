@@ -1,0 +1,13 @@
+{
+  "name": "rally-app",
+  "version": "0.0.1",
+  "description": "an app to query rally",
+  "main": "index.js",
+  "repository": "https://github.com/garthmiles/rally-app.git",
+  "author": "GarthMiles <gmiles@denvergrp.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.26.1",
+    "rally": "^2.1.2"
+  }
+}
